@@ -56,8 +56,7 @@ python house_price_pred.py
 
 ## Author
 Deepika Bharti · [GitHub](https://github.com/deepikabharti1)
-python house_price_pred.py
-```
+
 
 ## Author
 Deepika Bharti · [GitHub](https://github.com/deepikabharti1)
