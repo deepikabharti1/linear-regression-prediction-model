@@ -41,7 +41,7 @@ On average, predictions are off by about **₹2.7 lakh, roughly 7.5% of the mean
 - Plot residuals to check for patterns the linear model misses
 
 ## Visualization
-[Actual vs Predicted](actual-vs-predicted-price.png)
+![Actual vs Predicted](actual-vs-predicted-price.png)
 
 ## Tech stack
 Python, pandas, scikit-learn, matplotlib
