@@ -47,10 +47,15 @@ On average, predictions are off by about **₹2.7 lakh, roughly 7.5% of the mean
 Python, pandas, scikit-learn, matplotlib
 
 ## How to run
-bash
-git clone https://github.com/deepikabharti1/house-price-prediction.git
-cd house-price-prediction
+```bash
+git clone https://github.com/deepikabharti1/linear-regression-prediction-model.git
+cd linear-regression-prediction-model
 pip install -r requirements.txt
+python house_price_pred.py
+```
+
+## Author
+Deepika Bharti · [GitHub](https://github.com/deepikabharti1)
 python house_price_pred.py
 ```
 
